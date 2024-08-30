@@ -1,0 +1,15 @@
+password = 'coker jnr'
+np =input('password:')
+if password == np:
+    print ("password correct")
+else: 
+    print("password incorrect")
+def greet(Samuel):
+    print(f'welcome,{Samuel}')  
+    
+greet ('Samuel')
+
+import math 
+age = ['py - yob']
+age = [ '10']
+print(age)

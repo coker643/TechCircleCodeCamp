@@ -1,0 +1,27 @@
+species = 'canis familiaris'
+def_init_(self ,name ,age):
+    self.name = name
+    self.age = age
+
+    def description(self):
+        return f'{self.name} is {self.age}years old'
+
+    def speak(self, sound):
+        return f'{self.name} says {sound}'
+
+my dog = dog('Buddy',3)
+
+print(myDog. name)
+Print(myDog.age)
+
+
+print(myDog.description())
+print(myDog.speak('wolf'))
+
+
+def_init_(self,colour,model):
+    self.colour=colour
+    self.model =model
+
+    
+

@@ -7,3 +7,5 @@ password = "coker jnr"
 np = input("password: ")
 if password == np:
 	print("password correct")
+else:
+	print("password incorrect")
